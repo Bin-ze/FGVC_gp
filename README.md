@@ -217,8 +217,3 @@
     输出：'020.Yellow_breasted_Chat_1.0'
 
  
-- 镜像及记录更新
-
-| 镜像名                                                      | 镜像id         | 日期       |
-|:---------------------------------------------------------|:-------------|:---------|
-| harbor.deepwisdomai.com/deepwisdom/gp_fine-grained-classification_pim:v1.0  |  9e055d78f419  | 20220415 |
